@@ -6,4 +6,9 @@ class Object
     {
         echo "Hello World!";
     }
+
+    public function shape($shape)
+    {
+        echo $shape
+    }
 }
