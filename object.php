@@ -9,6 +9,6 @@ class Object
 
     public function shape($shape)
     {
-        echo $shape
+        echo $shape;
     }
 }
